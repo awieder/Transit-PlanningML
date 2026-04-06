@@ -1,0 +1,9 @@
+config.py
+venv/
+__pycache__/
+.DS_Store
+*.pyc
+data/
+ridership_2023/
+ridership_2024/
+ridership_OD_2025/
